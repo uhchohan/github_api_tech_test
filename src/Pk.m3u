@@ -1,0 +1,75 @@
+#EXTM3U
+
+# --- Pakistan News ---
+#EXTINF:-1 group-title="Pakistan News",Geo News
+https://live.geo.tv/geonews/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan News",ARY News
+https://live.arydigital.tv/arynews/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan News",Dunya News
+https://cdn.playtv.com.pk/dunyanews/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan News",Samaa TV
+https://cdn.playtv.com.pk/samaatv/live/playlist.m3u8
+
+
+# --- Pakistan Entertainment ---
+#EXTINF:-1 group-title="Pakistan Entertainment",Hum TV
+https://cdn.playtv.com.pk/humtv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan Entertainment",Geo TV
+https://live.geo.tv/geotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Pakistan Entertainment",ARY Digital
+https://live.arydigital.tv/arydigital/playlist.m3u8
+
+
+# --- Pakistan Sports ---
+#EXTINF:-1 group-title="Sports",PTV Sports
+https://ptvsports.live/ptv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",A Sports
+https://a-sports-live.aryzap.com/hls/stream.m3u8
+
+
+# --- Indian News ---
+#EXTINF:-1 group-title="India News",Aaj Tak
+https://live.aajtak.in/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",Zee News
+https://live.zeenews.com/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",India TV
+https://live.indiatvnews.com/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",NDTV India
+https://live.ndtv.com/india/playlist.m3u8
+
+
+# --- Indian Entertainment ---
+#EXTINF:-1 group-title="India Entertainment",Star Plus
+https://live.hotstar.com/starplus/playlist.m3u8
+
+#EXTINF:-1 group-title="India Entertainment",Sony Entertainment TV
+https://live.sonyentertainmenttv.com/playlist.m3u8
+
+#EXTINF:-1 group-title="India Entertainment",Zee TV
+https://live.zee.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="India Entertainment",Colors TV
+https://live.colors.in/playlist.m3u8
+
+
+# --- Indian Sports ---
+#EXTINF:-1 group-title="Sports",Star Sports 1
+https://livestream.star-sports.com/s1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Sports 2
+https://livestream.star-sports.com/s2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 1
+https://livestream.sonyten.com/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Ten 2
+https://livestream.sonyten.com/2/playlist.m3u8
